@@ -19,17 +19,17 @@ newgame = Game(mytable)
 newgame.deal()
 
 #Deal flop
-#newgame.deal()
+newgame.deal()
 
 #Deal turn
-#newgame.deal()
+newgame.deal()
 
 #Deal river
-#newgame.deal()
+newgame.deal()
 
 #Show hands
-#newgame.show_hands()
+newgame.show_hands()
 
 #Declare winnernew
-#print 'The winner is...'
-#newgame.declare_winner()
+print 'The winner is...'
+newgame.declare_winner()
